@@ -64,6 +64,7 @@ php -S 127.0.0.1:8000
 - Assets manquants: assurez-vous que le chemin des images est correct et accessible.
 
 ## Licence
+Projet pédagogique. Utilisation libre pour apprentissage.
 
 ## Travail de groupe
 - HAMITI Mohamed Amine
@@ -72,7 +73,6 @@ php -S 127.0.0.1:8000
 - DJEMAA Mossaab
 - OUEDAHI Abdelkader Yanis
 
-Projet pédagogique. Utilisation libre pour apprentissage.
 
 ## Dépôt
 `https://github.com/aminehmt/MEMO-social-media`
