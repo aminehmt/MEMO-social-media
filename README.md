@@ -58,12 +58,6 @@ php -S 127.0.0.1:8000
 - Connexion BDD: `connexion_bdd.php`
 - Assets: images et icônes (`*.png`, `*.jpg`)
 
-## Captures d’écran
-Aperçu de quelques écrans (si non visibles, actualisez la page du dépôt):
-
-![Logo](MEMOf.png)
-![Exemple](Photo.png)
-
 ## Dépannage
 - Page blanche: vérifiez les erreurs PHP (activer `display_errors` en dev) et la configuration BDD.
 - Connexion impossible: validez l’hôte, l’utilisateur, le mot de passe et le nom de base dans `connexion_bdd.php`.
